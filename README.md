@@ -1,5 +1,2 @@
-# banking_sparks
-This repository contains the banking system project where user can transact money from user user to another.
-Also, Transaction statement will be generated for each user.
-
-Created by Anish Rai
+# BasicBankingSystem
+Basic Banking System is dynamic website which contain 10 users in which we can transfer amount between them. You can run the project using XAMPP server
